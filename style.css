@@ -40,7 +40,9 @@ li{
     height: 400px; 
     width: 400px; 
     margin: 10px 10px 0px 10px;
+    border:2px solid black;
     border-radius: 80px;
+    padding: 5px;
 }
 #about{
     display: flex;
